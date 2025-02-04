@@ -291,7 +291,9 @@ namespace Simulasi_Laundry_Ifa_New
         {
             var row = dataGridView1.CurrentRow.Cells;
             textBox1.Text = row["nomortelepon"].Value.ToString();
-            richTextBox1.Text = row["alamat"].Value.ToString();
+            textBox6.Text = row["biayajemput"].Value.ToString();
+            textBox7.Text = row["biayaantar"].Value.ToString();
+            textBox4.Text = row["biayahari"].Value.ToString();
             dateTimePicker1.Value = Convert.ToDateTime(row["tanggalorder"].Value.ToString());
             dateTimePicker2.Value = Convert.ToDateTime(row["tanggalselesai"].Value.ToString());
             comboBox2.SelectedValue = row["petugasantar"].Value.ToString();
