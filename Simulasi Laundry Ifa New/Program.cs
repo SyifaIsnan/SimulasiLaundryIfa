@@ -16,7 +16,7 @@ namespace Simulasi_Laundry_Ifa_New
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Login());
+            Application.Run(new Order());
         }
     }
 }

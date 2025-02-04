@@ -34,9 +34,9 @@ namespace Simulasi_Laundry_Ifa_New
                         var mess = MessageBox.Show("Apakah data yang ingin anda input sudah benar?", "Question", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
                         if (mess == DialogResult.Yes)
                         {
-                            SqlCommand cmd = new SqlCommand("select * from [User] where email = @email and password = @password", conn);
-                            conn.Open();
+                            SqlCommand cmd = new SqlCommand("select * from [User] where email = @email and password = @password", conn);                            
                             cmd.CommandType = CommandType.Text;
+                            conn.Open();
                             cmd.Parameters.AddWithValue("@email", textBox1.Text);
                             cmd.Parameters.AddWithValue("@password",Properti.enkripsi(textBox2.Text));
                             SqlDataReader dr = cmd.ExecuteReader();
@@ -50,7 +50,7 @@ namespace Simulasi_Laundry_Ifa_New
                             {
                                 MessageBox.Show("User tidak ditemukan!");
                             }
-                            cmd.ExecuteNonQuery();
+                            
                             conn.Close();
                         }
                     }

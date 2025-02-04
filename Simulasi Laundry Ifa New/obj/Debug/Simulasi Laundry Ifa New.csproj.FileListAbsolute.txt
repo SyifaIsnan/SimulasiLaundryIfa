@@ -12,3 +12,18 @@ D:\Simulasi Laundry\Simulasi Laundry Ifa New\Simulasi Laundry Ifa New\obj\Debug\
 D:\Simulasi Laundry\Simulasi Laundry Ifa New\Simulasi Laundry Ifa New\obj\Debug\Simulasi_Laundry_Ifa_New.utama.resources
 D:\Simulasi Laundry\Simulasi Laundry Ifa New\Simulasi Laundry Ifa New\obj\Debug\Simulasi_Laundry_Ifa_New.DataUser.resources
 D:\Simulasi Laundry\Simulasi Laundry Ifa New\Simulasi Laundry Ifa New\obj\Debug\Simulasi_Laundry_Ifa_New.Order.resources
+D:\Simulasi Laundry\SimulasiLaundryIfa\Simulasi Laundry Ifa New\obj\Debug\Simulasi Laundry Ifa New.csproj.AssemblyReference.cache
+D:\Simulasi Laundry\SimulasiLaundryIfa\Simulasi Laundry Ifa New\obj\Debug\Simulasi Laundry Ifa New.csproj.SuggestedBindingRedirects.cache
+D:\Simulasi Laundry\SimulasiLaundryIfa\Simulasi Laundry Ifa New\obj\Debug\Simulasi_Laundry_Ifa_New.DataUser.resources
+D:\Simulasi Laundry\SimulasiLaundryIfa\Simulasi Laundry Ifa New\obj\Debug\Simulasi_Laundry_Ifa_New.Login.resources
+D:\Simulasi Laundry\SimulasiLaundryIfa\Simulasi Laundry Ifa New\obj\Debug\Simulasi_Laundry_Ifa_New.Order.resources
+D:\Simulasi Laundry\SimulasiLaundryIfa\Simulasi Laundry Ifa New\obj\Debug\Simulasi_Laundry_Ifa_New.Properties.Resources.resources
+D:\Simulasi Laundry\SimulasiLaundryIfa\Simulasi Laundry Ifa New\obj\Debug\Simulasi_Laundry_Ifa_New.utama.resources
+D:\Simulasi Laundry\SimulasiLaundryIfa\Simulasi Laundry Ifa New\obj\Debug\Simulasi Laundry Ifa New.csproj.GenerateResource.cache
+D:\Simulasi Laundry\SimulasiLaundryIfa\Simulasi Laundry Ifa New\obj\Debug\Simulasi Laundry Ifa New.csproj.CoreCompileInputs.cache
+D:\Simulasi Laundry\SimulasiLaundryIfa\Simulasi Laundry Ifa New\obj\Debug\Simulasi Laundry Ifa New.exe
+D:\Simulasi Laundry\SimulasiLaundryIfa\Simulasi Laundry Ifa New\obj\Debug\Simulasi Laundry Ifa New.pdb
+D:\Simulasi Laundry\SimulasiLaundryIfa\Simulasi Laundry Ifa New\bin\Debug\Simulasi Laundry Ifa New.exe.config
+D:\Simulasi Laundry\SimulasiLaundryIfa\Simulasi Laundry Ifa New\bin\Debug\Simulasi Laundry Ifa New.exe
+D:\Simulasi Laundry\SimulasiLaundryIfa\Simulasi Laundry Ifa New\bin\Debug\Simulasi Laundry Ifa New.pdb
+D:\Simulasi Laundry\SimulasiLaundryIfa\Simulasi Laundry Ifa New\obj\Debug\Simulasi_Laundry_Ifa_New.Report.resources
